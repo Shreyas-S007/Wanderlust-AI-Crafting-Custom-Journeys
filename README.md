@@ -30,6 +30,8 @@ The application provides users with:
 * An estimated budget for the trip, broken down into categories like accommodation, food, and activities.
 
   ![Screenshot 3](Results/tp-3.png)
+
+  ![Screenshot 5](Results/tp-5.png)
 * Key highlights of the trip, including top attractions and unique experiences.
 
   ![Screenshot 4](Results/tp-4.png)
