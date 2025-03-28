@@ -23,9 +23,16 @@ The Travel Itinerary Planner is an intelligent Streamlit application that genera
 ## 🖼️ Results
 The application provides users with:
 
-* A comprehensive, day-by-day travel itinerary tailored to their preferences.
+
+![Screenshot 1](Results/tp-1.png)
+
+  ![Screenshot 2](Results/tp-2.png)
 * An estimated budget for the trip, broken down into categories like accommodation, food, and activities.
+
+  ![Screenshot 3](Results/tp-3.png)
 * Key highlights of the trip, including top attractions and unique experiences.
+
+  ![Screenshot 4](Results/tp-4.png)
 * The ability to download the itinerary as a text file.
 * A chat interface to ask questions about the generated itinerary.
 
@@ -62,7 +69,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ## 🚀 Running the Application
 ```bash
-streamlit run app.py
+streamlit run travel_planer.py
 ```
 
 ## 💡 How to Use
@@ -78,14 +85,7 @@ streamlit run app.py
 * Key attractions and experiences
 * Downloadable itinerary
 
-## 🤝 Contributing
-Contributions are welcome! Please follow these steps:
 
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
 
 ## 📋 Requirements
 Create a `requirements.txt` with these dependencies:
